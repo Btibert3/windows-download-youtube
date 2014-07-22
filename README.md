@@ -7,11 +7,9 @@ I recently discovered a painfully simple and easy way to download `YouTube` vide
 
 ## The Program
 
-The link below is the program that I used.
+The used the [youtube-dl](http://rg3.github.io/youtube-dl/index.html) program below.
 
-[youtube-dl](http://rg3.github.io/youtube-dl/index.html).
-
-## The Quick-Start for Windows  
+## The Quick-Start / Install Guide for Windows  
 
 For those of us that do not like to read documentation, here is a quick-start checklist to get up and running.  It looks painful, but trust me, it's fairly straightforward and in truth, you probably won't break anything.
 
@@ -29,3 +27,13 @@ For those of us that do not like to read documentation, here is a quick-start ch
 
 If you aren't familar with modifying your `PATH`, that's ok.  We want to be able to pass commands to our computer.  For each command, our machine will need to know which program to use.  All we did was tell it to search for the `youtube-dl` program.  When we pass the appropriate command, our machine will ___magically___ know what to do.  
 
+
+## Example  
+
+Ohhh yeahhh......
+
+```
+chdir 
+youtube-dl "https://www.youtube.com/watch?v=2iE4uEsaBF0"
+ls -la
+```
