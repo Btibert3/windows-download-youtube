@@ -7,7 +7,7 @@ I recently discovered a painfully simple and easy way to download `YouTube` vide
 
 ## The Program
 
-The used the [youtube-dl](http://rg3.github.io/youtube-dl/index.html) program below.
+I used the [youtube-dl](http://rg3.github.io/youtube-dl/index.html) program below.
 
 ## Requirements  
 
@@ -21,7 +21,9 @@ To ensure that you are OK, if you can type `python` at the Command Line and get 
 
 You should see the interpreter.  If not, you will need to install `python`.  
 
-I highly recommend Continuum IO's version of `python`.  The Windows installer can be [found here](https://store.continuum.io/cshop/anaconda/)  Add your email to their mailing list, it's worth it.  I am in no way affiliated with them, but their open-source version of `python` is by far the best for those of us getting started.
+I highly recommend Continuum IO's version of `python`.  The Windows installer can be [found here](https://store.continuum.io/cshop/anaconda/)  
+
+Add your email to their mailing list, it's worth it.  I am in no way affiliated with them, but their open-source version of `python` is by far the best IMO.
 
 ## The Quick-Start / Install Guide for Windows  
 
