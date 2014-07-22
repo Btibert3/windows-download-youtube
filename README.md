@@ -23,7 +23,7 @@ For those of us that do not like to read documentation, here is a quick-start ch
 8.  Go to the end of the path (protip:  just hit `END` on your keyboard)  
 9.  Paste in the directory where you saved the `.exe` file  
 10. Click `OK` a few times until you exit the settings area  
-11. 
+
 
 If you aren't familar with modifying your `PATH`, that's ok.  We want to be able to pass commands to our computer.  For each command, our machine will need to know which program to use.  All we did was tell it to search for the `youtube-dl` program.  When we pass the appropriate command, our machine will ___magically___ know what to do.  
 
