@@ -31,7 +31,7 @@ For those of us that do not like to read documentation, here is a quick-start ch
 
 1.  Install the Windows EXE File, which can be found [here](http://rg3.github.io/youtube-dl/download.html)  
 2.  Move the file from your `Downloads` folder to a better location.  I made a folder in `C:\Program Files` called `youtube-dl` and placed the downloaded `.exe` file in that path
-3.  Copy the path to your clipboard  
+3.  Copy the path to your clipboard.  In my case, this is what I copied: `C:\Program Files\youtube-dl`
 4.  Click on Start
 5.  Right-Click on Computer and select `Properties`  
 6.  Select `Advanced System Settings` and Choose `Environment Variables`  
