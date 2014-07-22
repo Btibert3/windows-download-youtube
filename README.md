@@ -37,7 +37,7 @@ For those of us that do not like to read documentation, here is a quick-start ch
 6.  Select `Advanced System Settings` and Choose `Environment Variables`  
 7.  Under `System Variables`, select `PATH`  
 8.  Go to the end of the path (protip:  just hit `END` on your keyboard)  
-9.  Paste in the directory where you saved the `.exe` file  
+9.  Paste in the directory where you saved the `.exe` file.  Again, I simply pasted: `C:\Program Files\youtube-dl`
 10. Click `OK` a few times until you exit the settings area  
 
 
