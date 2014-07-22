@@ -46,10 +46,16 @@ If you aren't familar with modifying your `PATH`, that's ok.  We want to be able
 
 ## Example  
 
-Ohhh yeahhh......
+Click the `Start` button, and in the search box, simply type `cmd`.
+
+When you get the command prompt, type the commands below.
+
 
 ```
 chdir 
 youtube-dl "https://www.youtube.com/watch?v=2iE4uEsaBF0"
 ls -la
 ```
+
+
+Ohhh yeahhh......
