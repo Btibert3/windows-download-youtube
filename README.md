@@ -57,5 +57,15 @@ youtube-dl "https://www.youtube.com/watch?v=2iE4uEsaBF0"
 ls -la
 ```
 
+You can also download playlists
 
-Ohhh yeahhh......
+```
+youtube-dl "https://www.youtube.com/playlist?list=PLju0RouQTTtwE-_uzWnu3vKLossWir5tF"
+```
+
+where the URL is the Youtube Page for the playlist itself.  `youtube-dl` will automatically go through each video.  
+
+For more help, simply use `youtube-dl --help`
+
+
+
